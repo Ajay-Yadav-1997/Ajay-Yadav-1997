@@ -8,12 +8,20 @@
 ---
 
 - 🔭 I’m currently working on **Android Apps and Flutter Projects**
-- 🌱 I’m currently learning **Advanced Android (Jetpack Compose, MVVM)** and **Flutter Animations**
+- 🌱 I’m currently learning **Jetpack Compose, MVVM, Flutter Animations**
 - 💬 Ask me about **Android Development, Java, Kotlin, Flutter**
-- 📫 How to reach me: **chunnukumar1997123@email.com** (update your email here)
+- 📫 How to reach me: **ajay.yadav1997@email.com**
 - 😄 Pronouns: **He/Him**
-- 🎓 I have completed **B.Tech in 2021**
+- 🎓 B.Tech Graduate – **Class of 2021**
 - ⚡ Fun fact: **I can build apps faster than I can decide what to eat! 😄**
+
+---
+
+## 🚀 My Published Apps
+
+- [ThanQboss – Job Search App](https://play.google.com/store/apps/details?id=com.example.thanqboss)
+- [AnotherApp – Example Utility Tool](https://play.google.com/store/apps/details?id=com.example.anotherapp)
+<!-- Add more apps as needed -->
 
 ---
 
@@ -72,4 +80,3 @@
 ---
 
 ⭐️ From [@Ajay-Yadav-1997](https://github.com/Ajay-Yadav-1997)
-
