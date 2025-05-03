@@ -20,8 +20,7 @@
 ## 🚀 My Published Apps
 
 - [ThanQboss – Job Search App]https://play.google.com/store/apps/details?id=com.ThanQboss.ThanQboss)
-
-- [AnotherApp – Example Utility Tool](https://play.google.com/store/apps/details?id=com.example.anotherapp)
+- [MockA Plus – Online Exam Preparation App]https://play.google.com/store/apps/details?id=com.quiz.mockaplus)
 <!-- Add more apps as needed -->
 
 ---
